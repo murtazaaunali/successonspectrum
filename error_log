@@ -1,0 +1,9 @@
+[28-Jul-2020 14:48:09 UTC] PHP Fatal error:  Allowed memory size of 1610612736 bytes exhausted (tried to allocate 268435456 bytes) in phar:///usr/local/bin/composer/src/Composer/DependencyResolver/Solver.php on line 223
+[28-Jul-2020 14:53:10 UTC] PHP Fatal error:  Allowed memory size of 1610612736 bytes exhausted (tried to allocate 268435456 bytes) in phar:///usr/local/bin/composer/src/Composer/DependencyResolver/Solver.php on line 223
+[28-Jul-2020 14:57:13 UTC] PHP Fatal error:  Allowed memory size of 1610612736 bytes exhausted (tried to allocate 268435456 bytes) in phar:///usr/local/bin/composer/src/Composer/DependencyResolver/Solver.php on line 223
+[28-Jul-2020 16:47:11 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/successonthespec/public_html/porthole/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[28-Jul-2020 16:49:06 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/successonthespec/public_html/porthole/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[29-Jul-2020 15:47:10 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/successonthespec/public_html/porthole/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[29-Jul-2020 15:48:49 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/successonthespec/public_html/porthole/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[29-Jul-2020 15:51:37 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/successonthespec/public_html/porthole/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 501
+[29-Jul-2020 15:51:42 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/successonthespec/public_html/porthole/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 501

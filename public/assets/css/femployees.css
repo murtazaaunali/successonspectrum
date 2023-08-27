@@ -1,0 +1,80 @@
+.main-deck-card {
+  /*width:24.5% !important;*/
+  width: 24.67% !important;
+}
+
+.super-admin-femployee-main {
+  background-color: #fff;
+  border-radius: 8px;
+  padding-top: 10px;
+  margin-top: 6px;
+  border: 1px #e8ecf0 solid;
+}
+
+.super-admin-femployee-tabs-main .nav-tabs {
+  padding-left: 20px;
+}
+
+.super-admin-femployee-tabs-main .nav-tabs li a {
+  padding-left: 3px;
+  padding-bottom: 20px;
+  color: #12253e;
+  font-weight: 600;
+  font-family: Lato;
+  background-color: transparent !important;
+  color: #10294b;
+  font-size: 12px;
+}
+
+.super-admin-femployee-tabs-main .nav-tabs > li.active > a,
+.super-admin-femployee-tabs-main .nav-tabs > li.active > a:focus,
+.super-admin-femployee-tabs-main .nav-tabs > li.active > a:hover {
+  background-color: transparent !important;
+  color: #68a7d2;
+  border-bottom: 2px #68a7d2 solid;
+}
+
+.super-admin-femployee-tab-content {
+  padding: 11px 15px 16px 17px;
+}
+
+.super-admin-femployee-box-main {
+  margin-top: 2px;
+  padding-bottom: 264px;
+}
+
+.super-admin-femployee-box {
+  border: 1px #eff1f4 solid;
+  float: left;
+  width: 11%;
+  margin-right: 12px;
+  text-align: center;
+  border-radius: 4px;
+  padding-top: 7px;
+  position: relative;
+}
+
+.super-admin-femployee-box button {
+  background-color: transparent;
+  border: 0;
+  -webkit-transform: rotate(89deg);
+  transform: rotate(89deg);
+  display: block;
+  float: right;
+  color: #d0d3d9;
+}
+
+.super-admin-femployee-box a {
+  text-decoration: none;
+}
+
+.super-admin-femployee-box a img {
+  width: 30%;
+  margin-bottom: 25px;
+}
+
+.super-admin-femployee-box a p {
+  font-size: 10px;
+  color: #1465a5;
+}
+

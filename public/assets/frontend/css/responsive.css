@@ -1,0 +1,308 @@
+@media  (min-width: 320px) and (max-width: 767px) {
+.logo_sec {
+    padding-left: 0px;
+    float: left;
+}
+.admission_main {
+    margin-top:0px;
+    background: none;
+}
+.admission_content {
+    position: initial;
+    width: auto;
+    padding-top: 70px;
+    padding-bottom: 30px;
+}
+.admission_main img{
+    display:none;
+}
+.admission_content h1 {
+    font-size: 35px;
+}
+.admission_content p {
+    font-size: 18px;
+}
+.let_butt {
+    width: 218px;
+    margin-top: 35px;
+}
+.add-footer h4 {
+    display: block;
+    padding: 10px 0;
+    text-align: center;
+    line-height: 25px;
+    font-size: 13px;
+}
+.add-footer h5 {
+    display: block;
+    padding: 10px 0;
+    text-align: center;
+    float: none;
+    font-size: 13px;
+}
+.choose-tab {
+    width: 100% !important;
+    float: none;
+    text-align: center;
+}
+.wid_main {
+    width: auto;
+}
+.add-tabs a span {
+    display: initial;
+}
+.addmi-head h2 {
+    font-size: 30px;
+}
+.chech-loc h4 {
+    font-size: 15px;
+    line-height: 30px;
+}
+.intrest label {
+    font-size: 13px !important;
+    display: initial;
+    line-height: 25px;
+}
+.chech-loc p {
+    font-size: 13px!important;
+    margin: 0px !important;
+}
+.intrest {
+    padding-bottom: 60px;
+}
+.two-btn {
+    padding-bottom: 40px;
+}
+.two-btn .g-btn {
+    padding: 8px 40px;
+}
+.two-btn .b-btn {
+    padding: 8px 40px;
+}
+.col-md-3.col-wid {
+    width: 100%;
+}
+.row-pad label {
+    padding-top: 15px;
+}
+.input-group-addon {
+    top: 45px;
+}
+.hipaa h2 {
+    font-size: 19px;
+}
+.hipaa p {
+    font-size: 15px;
+    line-height: 25px;
+}
+.hipaa h4 {
+    font-size: 15px;
+}
+.hipaa-check span {
+    font-size: 19px;
+}
+.payment h2 {
+    font-size: 19px;
+}
+.payment p {
+    font-size: 15px;
+    width: 94%;
+}
+.payment span {
+    width: 5%;
+    padding-top: 5px;
+}
+.inform p {
+    font-size: 15px;
+}
+.inform h4 {
+    font-size: 15px;
+}
+.release h2 {
+    font-size: 19px;
+}
+.release p {
+    font-size: 15px;
+}
+.release h3 {
+    font-size: 15px;
+    line-height: 25px;
+}
+.parent-page h2 {
+    font-size: 19px;
+}
+.parent-page h3 {
+    font-size: 19px;
+}
+.parent-page p {
+    font-size: 15px;
+    width: 94%;
+}
+.parent-page span {
+    width: 5%;
+    padding-top: 16px;
+}
+.thanks_main {
+    margin-top: 0px;
+}
+.thanks_main img{
+    display: none;
+}
+.thanks_main p {
+    width: 280px;
+}
+.admission_content h2 {
+    font-size: 40px;
+}
+.round {
+    width: 100%;
+    margin-right: 0px;
+}
+.avail .col-xs-6 {
+    width: 150px;
+}
+.earlier .col-md-3 {
+    width: 100%;
+}
+.earlier .col-md-2 {
+    width: 100%;
+}
+.work-e .row-pad label {
+    padding-top: 0px;
+    display: block;
+}
+.carefully p {
+    font-size: 15px;
+}
+.col-wid-1 {
+    width:auto;
+}
+.EMP_INFO h2 {
+    font-size: 19px;
+}
+.back_site a {
+    width: 135px;
+    font-size: 13px;
+}
+.col-pad-lab .radio-inline{
+    margin-left: 0px;
+}
+.col-pad-lab label{
+    display: block;
+}
+.parent-page .input-group-addon {
+    top: 35px;
+}
+.work-e .radio-inline{
+    width: 70px;
+    float: left;
+}
+.work-e p {
+    clear: both;
+}
+.work-e span {
+    clear: both;
+    padding-top: 10px;
+}
+}
+@media  (min-width: 768px) and (max-width: 991px) {
+.admission_main {
+    margin-top: 10px;
+    background-size: 100%;
+}
+.admission_content {
+    padding-top: 60px;
+    padding-bottom: 45px;
+}
+.intrest label {
+    display: initial;
+    line-height: 30px;
+}
+.choose-tab {
+    width: 18.6%;
+}
+.chech-loc h4 {
+    line-height: 30px;
+}
+.row-pad label {
+    font-size: 13px;
+}
+.col-md-3.col-wid {
+    width: 25%;
+}
+.payment h3 {
+    line-height: 25px;
+}
+.thanks_main img{
+    width: 100%;
+}
+.admission_main img{
+    width: 100%;
+}
+.admission_main.thanks_main {
+    background-size: 78%;
+}
+.admission_main.thanks_main .admission_content {
+    padding-top: 30px;
+}
+.round {
+    margin-right: 36px;
+}
+.avail .col-md-2 {
+    width: 25%;
+}
+.earlier .col-md-3 {
+    width: 31%;
+}
+.earlier .col-md-2 {
+    width: 21.666667%;
+}
+.chech-loc p {
+    margin-bottom: 0px !important;
+}
+.parent-page p {
+    width: 95%;
+}
+.parent-page span {
+    width: 5%;
+}
+}
+@media  (min-width: 992px) and (max-width: 1024px) {
+.admission_main {
+    margin-top: 10px;
+    background-size: 86%;
+}
+.choose-tab {
+    width: 11%;
+}
+.row-pad label {
+    font-size: 13px;
+}
+.thanks_main img{
+    width: 100%;
+}
+.admission_main img{
+    width: 100%;
+}
+.career .intrest label {
+    font-size: 15px;
+}
+.avail .col-md-2 {
+    width: 15.666667%;
+}
+.round {
+    margin-right: 25px;
+}
+.earlier .col-md-3 {
+    width: 24%;
+}
+.earlier .col-md-2 {
+    width: 16.666667%;
+}
+.admission_main.thanks_main {
+    background-size: 70%;
+}
+.admission_main.thanks_main .admission_content {
+    padding-top: 22px;
+}
+}

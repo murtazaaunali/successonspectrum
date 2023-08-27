@@ -1,0 +1,16 @@
+[28-Jul-2020 16:34:43 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/successonthespec/public_html/porthole/public/index.php on line 52
+[28-Jul-2020 16:34:50 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/successonthespec/public_html/porthole/public/index.php on line 52
+[28-Jul-2020 16:37:24 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/successonthespec/public_html/porthole/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[28-Jul-2020 16:37:39 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/successonthespec/public_html/porthole/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[28-Jul-2020 16:39:46 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/successonthespec/public_html/porthole/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[28-Jul-2020 16:48:46 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/successonthespec/public_html/porthole/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[28-Jul-2020 16:48:47 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/successonthespec/public_html/porthole/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[28-Jul-2020 16:48:48 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/successonthespec/public_html/porthole/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[28-Jul-2020 16:48:48 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/successonthespec/public_html/porthole/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[28-Jul-2020 16:48:49 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/successonthespec/public_html/porthole/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[28-Jul-2020 16:48:49 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/successonthespec/public_html/porthole/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[28-Jul-2020 16:48:51 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/successonthespec/public_html/porthole/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[28-Jul-2020 16:48:51 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/successonthespec/public_html/porthole/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[28-Jul-2020 16:48:51 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/successonthespec/public_html/porthole/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[28-Jul-2020 16:48:51 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/successonthespec/public_html/porthole/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[28-Jul-2020 16:49:30 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/successonthespec/public_html/porthole/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
